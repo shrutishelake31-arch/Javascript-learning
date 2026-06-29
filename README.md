@@ -24,9 +24,8 @@ This repository contains my daily JavaScript practice, examples, and mini projec
 javascript-learning/
 │
 ├── variables.html
-├── operators.html
-├── program.html
-├── voting.html
+├── program.html(operators)
+├── voting.html(if-else)
 ├── loops.html
 ├── obj.html
 └── README.md
