@@ -1,79 +1,54 @@
-# 🚀 JavaScript Day 1 Practice
+# 🚀 JavaScript Learning Journey
 
-Welcome to my **JavaScript Day 1** practice repository! 🎉
+Welcome to my **365 Days of JavaScript** challenge! 🎯
 
-This repository contains beginner-friendly JavaScript programs created while learning the fundamentals of JavaScript. Each program focuses on understanding basic concepts and improving problem-solving skills.
+This repository contains my daily JavaScript practice, examples, and mini projects as I improve my programming skills.
 
----
+## 📅 Progress
 
-## 📂 Files Included
-
-| File Name | Description |
-|-----------|-------------|
-| 📄 `program.html` | Basic JavaScript syntax and simple programs |
-| 📄 `loops.html` | Practice of loops (`for`, `while`, `do-while`) |
-| 📄 `voting.html` | Voting Eligibility Checker using Conditional Statements |
-
----
-
-## ✨ Concepts Covered
-
-- ✅ Variables (`let`, `const`, `var`)
-- ✅ Data Types
-- ✅ Operators
-- ✅ Conditional Statements (`if`, `else`, `else if`)
-- ✅ Loops
-- ✅ Console Output
-- ✅ User Input (`prompt()`)
-- ✅ Basic JavaScript Logic
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 1 | Variables | ✅ |
+| Day 2 | Operators | ✅ |
+| Day 3 | if-else | ✅ |
+| Day 4 | Voting Eligibility | ✅ |
+| Day 5 | Loops | ✅ |
+| Day 6 | Objects | ✅ |
+| Day 7 | Coming Soon | ⏳ |
 
 ---
 
-## 🛠️ Technologies Used
+## 📂 Repository Structure
 
-- HTML5
-- JavaScript (ES6)
-
----
-
-## 🎯 Learning Objective
-
-The goal of this project is to build a strong foundation in JavaScript by practicing basic programs and understanding core programming concepts before moving on to advanced topics.
-
----
-
-## 📚 Day 1 Topics
-
-- Introduction to JavaScript
-- Variables
-- Data Types
-- Operator
-- Loops
-- Conditional Statements
-- Simple Logic Building
+```
+javascript-learning/
+│
+├── variables.html
+├── operators.html
+├── program.html
+├── voting.html
+├── loops.html
+├── obj.html
+└── README.md
+```
 
 ---
 
-## 🌱 Future Updates
+## 🎯 Goal
 
-- Functions
-- Arrays
-- Strings
-- DOM Manipulation
-- Events
-- ES6 Features
-- Mini Projects
+- ✅ Learn JavaScript from basics to advanced
+- ✅ Practice coding daily
+- ✅ Build mini projects
+- ✅ Improve problem-solving skills
+- ✅ Create a strong GitHub portfolio
 
 ---
 
-## 👩‍💻 Author
+## 🛠️ Technologies
 
-**Shruti Shelake**
-
-Computer Science Engineering Student 💙
-
-Learning JavaScript one day at a time and building projects to strengthen programming skills.
+- JavaScript
+- HTML
 
 ---
 
-⭐ If you found this repository helpful, don't forget to **Star** it!
+⭐ Thank you for visiting my repository!
