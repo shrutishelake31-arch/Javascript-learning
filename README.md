@@ -29,7 +29,6 @@ javascript-learning/
 ├── 05-objects.html
 ├── 06-functions.html
 └── README.md
-```
 
 ---
 
