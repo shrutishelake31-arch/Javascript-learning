@@ -17,6 +17,7 @@ This repository contains my daily JavaScript practice, examples, and mini projec
 | Day 7 | Coming Soon| ⏳| 
 
 
+
 ## 📂 Repository Structure
 
 javascript-learning/
