@@ -16,7 +16,8 @@ This repository documents my daily progress as I learn JavaScript from the groun
 | Day 4 | Loops | ✅ |
 | Day 5 | Objects | ✅ |
 | Day 6 | Functions | ✅ |
-| Day 7 | Coming Soon | ⏳ |
+| Day 7 | Array | ✅  |
+| Day 8 | coming soon | ? |
 
 ---
 
@@ -31,6 +32,7 @@ javascript-learning/
 ├── 04-loops.html
 ├── 05-objects.html
 ├── 06-functions.html
+├── 07-Array.html
 └── README.md
 ```
 
