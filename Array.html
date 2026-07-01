@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Arrays</title>
+</head>
+<body>
+
+<h1>JavaScript Arrays</h1>
+<p>Press <strong>F12</strong> and open the <strong>Console</strong> tab.</p>
+
+<script>
+console.log("===== JavaScript Arrays =====");
+
+// Create an Array
+let fruits = ["Apple", "Banana", "Mango", "Orange"];
+
+console.log("Original Array:", fruits);
+
+// Access Elements
+console.log("First Fruit:", fruits[0]);
+console.log("Last Fruit:", fruits[3]);
+
+// Add Elements
+fruits.push("Grapes");
+console.log("After Push:", fruits);
+
+// Remove Last Element
+fruits.pop();
+console.log("After Pop:", fruits);
+
+// Add at Beginning
+fruits.unshift("Pineapple");
+console.log("After Unshift:", fruits);
+
+// Remove First Element
+fruits.shift();
+console.log("After Shift:", fruits);
+
+// Array Length
+console.log("Array Length:", fruits.length);
+
+// Loop Through Array
+console.log("All Fruits:");
+for(let i = 0; i < fruits.length; i++){
+    console.log(fruits[i]);
+}
+
+console.log("===== Program Ended =====");
+</script>
+
+</body>
+</html>
